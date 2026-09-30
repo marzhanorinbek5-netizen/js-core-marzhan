@@ -8,3 +8,14 @@ Install dependencies:
 
 ```bash
 npm i
+All tests should pass successfully with:
+
+```bash
+npm test
+
+добавь:
+
+```md
+### Test result
+
+![Passing tests](tests-passing.png)
